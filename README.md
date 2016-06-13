@@ -18,3 +18,5 @@ vcard2snom can be used to convert vcard files (e.g. owncloud address books) to x
 * upload snom.xml in the Snom phone web gui
 
 ## References
+
+* Snom xml structure: http://downloads.snom.net/documentation/M700_M300_Admin_Guide_en.pdf, page 43
