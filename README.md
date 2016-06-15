@@ -6,7 +6,7 @@ vcard2snom can be used to convert vcard files (e.g. owncloud address books) to x
 
 ## Usage
 
-* get your vcard file, e.g. download it from a running owncloud server via https://<yourOwncloudServer>/owncloud/carddav/addressbooks/<yourOwncloudUsername>/<yourOwncloudCalendarName>?export
+* get your vcard file, e.g. download it from a running owncloud server via `https://<yourOwncloudServer>/owncloud/carddav/addressbooks/<yourOwncloudUsername>/<yourOwncloudCalendarName>?export`
 * run vcard2snom with your vcard file as input, direct output to your desired xml file:
 
     $ perl vcard2snom.pl <yourVcardFile> > phonebook.xml
